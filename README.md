@@ -7,4 +7,5 @@ Implementando um projeto do curso da Alura
 
 ```
 Spring Boot
+Thymeleaf
 ```

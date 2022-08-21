@@ -1,5 +1,5 @@
 # projeto-mudi
-Implementando um projeto de curso Alura
+Implementando um projeto do curso da Alura
 
 <h1> Sistema Mudi </h1>
 

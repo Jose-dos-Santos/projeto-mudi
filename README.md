@@ -2,7 +2,7 @@
 
 
 
-> Status do Projeto: :heavy_check_mark: :warning:  em desenvolvimento
+> Status do Projeto:  :warning:  em desenvolvimento
 
 ### Tópicos 
 
